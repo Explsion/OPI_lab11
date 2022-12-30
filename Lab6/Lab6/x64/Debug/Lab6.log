@@ -1,0 +1,19 @@
+﻿Сборка начата 19.12.2022 15:36:37.
+Уровень детализации журнала: Normal.     1>Проект "C:\Users\user\Desktop\ОПИ\Lab6\Lab6\Lab6.vcxproj" в узле 2 (целевые объекты Build).
+     1>InitializeBuildStatus:
+         Обращение к "x64\Debug\Lab6.tlog\unsuccessfulbuild".
+       ClCompile:
+         Для всех выходных данных обновления не требуется.
+       Link:
+         Для всех выходных данных обновления не требуется.
+         Lab6.vcxproj -> C:\Users\user\Desktop\ОПИ\Lab6\x64\Debug\Lab6.exe
+       FinalizeBuildStatus:
+         Файл "x64\Debug\Lab6.tlog\unsuccessfulbuild" удаляется.
+         Обращение к "x64\Debug\Lab6.tlog\Lab6.lastbuildstate".
+     1>Сборка проекта "C:\Users\user\Desktop\ОПИ\Lab6\Lab6\Lab6.vcxproj" завершена (целевые объекты Build).
+
+Сборка успешно завершена.
+    Предупреждений: 0
+    Ошибок: 0
+
+Прошло времени 00:00:00.25
